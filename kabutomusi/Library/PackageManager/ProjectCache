@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638930650504418009
-    m_Hash: 4020215605
+      ticks: 638930685197532897
+    m_Hash: 1867698401
   m_LockFileStatus:
     m_FilePath: D:/Unity/kabutomusi/kabutomusi/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638930650825770745
-    m_Hash: 4074132072
+      ticks: 638930685197532897
+    m_Hash: 617601510
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -3228,7 +3228,6 @@ m_ResolvedPackages:
     - 3.0.34
     - 3.0.35
     - 3.0.36
-    - 3.0.37
     compatible:
     - 3.0.22
     - 3.0.24
@@ -3240,8 +3239,7 @@ m_ResolvedPackages:
     - 3.0.34
     - 3.0.35
     - 3.0.36
-    - 3.0.37
-    recommended: 3.0.37
+    recommended: 3.0.36
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
@@ -3316,11 +3314,9 @@ m_ResolvedPackages:
     - 0.1.0-preview.1
     - 0.1.0-preview.2
     - 1.0.0
-    - 1.0.1
     compatible:
     - 1.0.0
-    - 1.0.1
-    recommended: 1.0.1
+    recommended: 1.0.0
     deprecated: []
   dependencies: []
   resolvedDependencies: []
